@@ -1,0 +1,84 @@
+body{ background:  url(https://media.istockphoto.com/id/1169630303/photo/blue-textured-background.webp?b=1&s=170667a&w=0&k=20&c=tI2xFhXqXFqMM0IvxSYY3F7LIwv450h2ch3yD-lZ9HU=);
+  background-size: cover;}
+
+.Onetext{
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+    font-size: 30px;
+}
+
+.Twotext{
+  font-family: "Bungee Spice", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+}
+
+
+.text {
+  font-family: "Rubik Mono One", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+.threetext{color: #d2b48c;}
+
+
+footer {
+ grid-column: 1/-1;
+ height: 30vh;
+ background: black;
+ color: white;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
+}
+footer p {
+ padding: 30px 0;
+}
+.social_contacts {
+ display: flex;
+ width: 10vh;
+ justify-content: space-around;
+
+}
+.social_contacts a:hover {
+ color: orange;
+ transition: 0.9s;
+}
+
+a {
+  text-decoration: none;
+}
+
+.social_contacts a{
+ display: flex;
+ width: 10vh;
+ justify-content: space-around;
+ color: skyblue;
+margin-top: 20px;
+padding: 0 10px;}
+
+.photo {width: 200px;
+        height: 250px;}
+
+.photo:hover {width: 210px;
+height: 255px;}
+
+
+
+
+
+
+
+
+
+
+
